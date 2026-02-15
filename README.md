@@ -27,7 +27,7 @@
 - 🔍 Actively looking for **SDE Internships & Job opportunities**  
 
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/folders/14FBF0wrJkElWsmhs_rQyQFqaYWLhRrQh" target="_blank">
+  <a href="https://drive.google.com/file/d/1E7qIfTREFPDxCbxlmBUl-Lpef910aR-I/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄 Download%20Resume-28A745?style=for-the-badge&logo=google-drive&logoColor=white" alt="Golla Nikhilesh Resume" />
   </a>
 </p>
